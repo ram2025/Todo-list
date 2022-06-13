@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: cornsilk;
+}
+
+.non-task {
+  color: blue;
+}
+
+.task {
+  color: red;
+}
